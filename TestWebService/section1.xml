@@ -1,0 +1,319 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<Doc>
+<Root>
+<Section>
+   <sectionID>1</sectionID>
+   <SectionName>Machine and Physics</SectionName>
+ <Chapter>
+  <ChapterID>2</ChapterID>
+   <Chaptername>FLOWMETERS</Chaptername>
+   <questions>
+       <id>1</id>
+       <question> Which of the following is NOT considered a potential flowmeter safety hazard in the anesthetic machine?</question>
+       <A>Dirt in the flowmeter tube</A>
+       <B>Crack in the flowmeter tube</B>
+       <C>Nitrous flowmeter positioned downstream from oxygen</C>
+       <D>Oxygen flowmeter positioned downstream from nitrous</D>
+       <E>Non-rotating float in flowmeter</E>
+       <Description>All of the above are potential safety concerns for a well-functioning flowmeter except oxygen being placed downstream from nitrous in the flowmeter assembly. Oxygen as the final gas flow in the assembly makes a hypoxic gas flow much less likely. A non-rotating float could indicate it is stuck to the inside of the tube</Description>
+       <Ans>D</Ans>
+     </questions>
+    <questions>
+        <id>2</id>
+        <question> In regards to physics of the ventilator machine, why is flowmeter gas flow considered laminar at lower flows?</question>
+        <A>Gas density has a greater impact on the flow</A>
+        <B>The annular space is larger at low flows</B>
+        <C>Gas flow appears to be orificial</C>
+        <D>Gas flow appears to be tubular</D>
+        <E>Gas flow does not place an upward force equal to gravity on the float</E>
+        <Description>At low flows the annular space is smaller and flow is tubular and laminar, with gas viscosity influencing the rate. All of the other answers describe higher or turbulent flow properties. Of course, a well-functioning float is balanced between the upward force of the gas flow and the downward force of gravity at any flow level.</Description>
+        <Ans>D</Ans>
+     </questions>
+     <questions>
+         <id>3</id>
+         <question>Concerning physics of the ventilator machine, why is flowmeter gas flow considered turbulent at higher flows?</question>
+         <A>Gas viscosity has a greater impact on the flow</A>
+         <B>The annular space is larger at low flows</B>
+         <C>Gas flow appears to be tubular</C>
+         <D>Gas flow appears to be orificial</D>
+         <E>Gas flow does not place an upward force equal to gravity on the float</E>
+         <Description>At high flows the annular space is larger and flow is orificial and turbulent with gas density influencing the rate.  All of the other answers describe lower or laminar flow properties. Of course, a well-functioning float is balanced between the upward force of the gas flow and the downward force of gravity at any flow level</Description>
+         <Ans>D</Ans>
+     </questions>
+     <questions>
+         <id>4</id>
+         <question>When focusing on the physics of gas flow, which of the following gas properties has the greatest impact on gas flow through a flowmeter at high flow rates?</question>
+         <A>Viscosity</A>
+         <B>Density</B>
+         <C>Temperature</C>
+         <D>Volume</D>
+         <E>Partial pressure</E>
+         <Description>At high flow rates the density of the gas has the greatest impact on how gas flows through the constriction.</Description>
+         <Ans>B</Ans>
+     </questions>
+     <questions>
+         <id>5</id>
+         <question>Which of the following gas properties has the greatest impact on gas flow through a flowmeter at low flow rates?</question>
+         <A>Viscosity</A>
+         <B>Density</B>
+         <C>Temperature</C>
+         <D>Volume</D>
+         <E>Partial pressure</E>
+         <Description>At low flow rates the viscosity of the gas has the greatest impact on how gas flows through the constriction</Description>
+         <Ans>A</Ans>
+     </questions>
+    </Chapter>
+    <Chapter>
+        <ChapterID>4</ChapterID>
+        <Chaptername>ANESTHESIA MACHINES</Chaptername>
+        <questions>
+            <id>1</id>
+            <question> Which of the following statement below is false regarding machine alarms?</question>
+            <A>Fail Safe system allows for the detection of low pressure and hypoxic gas mixtures</A>
+            <B>Pressure alarms may not alarm if there is high resistance within the circuit</B>
+            <C>CO2 monitors may be misleading for they can also be used to detect cardiac output</C>
+            <D>Respiratory volume alarm is located in the expiratory limb</D>
+            <E>Pressure alarms are located just proximal to the inspiratory valve</E>
+            <Description></Description>
+            <Ans>A</Ans>
+        </questions>
+        <questions>
+            <id>2</id>
+            <question> In the anesthetic ventilator machine, where is the pressure alarm located?</question>
+            <A>Proximal to the inspiratory valve</A>
+            <B>Anywhere within the expiratory limb</B>
+            <C>Attached to the Y-piece</C>
+            <D>Just distal to the bellows</D>
+            <E>Proximal to the scavenger valve</E>
+            <Description></Description>
+            <Ans>A</Ans>
+        </questions>
+        <questions>
+            <id>3</id>
+            <question>In the anesthesia ventilator machine, which of the following monitors will detect hypoxic gas mixture?</question>
+            <A>Fail Safe valve</A>
+            <B>CO2 monitor</B>
+            <C>O2 analyzer</C>
+            <D>Pressure alarm</D>
+            <E>Respiratory volume alarm</E>
+            <Description></Description>
+            <Ans>B</Ans>
+        </questions>
+    </Chapter>
+    <Chapter>
+        <ChapterID>5</ChapterID>
+        <Chaptername>MAPLESON SYSTEMS </Chaptername>
+        <questions>
+            <id>1</id>
+            <question>For a spontaneously ventilating patient which one of the following Mapleson Circuits is the most efficient?</question>
+            <A>Mapleson A</A>
+            <B>Mapleson B</B>
+            <C>Mapleson C</C>
+            <D>Mapleson D</D>
+            <E>Mapleson E</E>
+            <Description>The different designs of the various Mapleson circuits (i.e. placement of fresh gas flow, length of tubing, presence of a pop-off valve, etc.) account for the varying degrees to which a patient being ventilated will rebreath CO2. In a Mapleson A circuit the fresh gas flow need only be 1X the minute gas flow to prevent rebreathing of trapped CO2 </Description>
+            <Ans>A</Ans>
+        </questions>
+        <questions>
+            <id>2</id>
+            <question> For a mechanically ventilated patient which one of the following Mapleson Circuit types is the most efficient?</question>
+            <A>Mapleson A</A>
+            <B>Mapleson B</B>
+            <C>Mapleson C</C>
+            <D>Mapleson D</D>
+            <E>Bain Circuit</E>
+            <Description>The different designs of the various Mapleson circuits (i.e. placement of fresh gas flow, length of tubing, presence of a pop-off valve, etc.) account for the varying degrees to which a patient being ventilated will rebreath CO2. In a Mapleson D circuit rebreathing is prevented with a fresh gas flow of 2.5X minute ventilation for a patient on controlled ventilation.  A Mapleson A requires almost 20X the minute ventilation if the patient is not spontaneously breathing.</Description>
+            <Ans>D</Ans>
+        </questions>
+        <questions>
+            <id>3</id>
+            <question>Which of the following breathing system components is not considered a common component of the Mapleson Circuit?</question>
+            <A>Face mask</A>
+            <B>Pop off valve</B>
+            <C>Reservoir bag</C>
+            <D>Fresh gas inflow</D>
+            <E>Expiratory valve</E>
+            <Description>Common components of Mapleson Circuits include a face mask, reservoir tubing, a pop-off valve, a fresh gas inflow source and tubing, and a reservoir bag. The Bain Circuit modification includes an expiratory valve</Description>
+            <Ans>E</Ans>
+        </questions>
+        <questions>
+            <id>4</id>
+            <question>Which of the following properties regarding airway circuits differentiates a Bain circuit from a traditional Mapleson circuit?</question>
+            <A>Fresh gas inflow near the face mask</A>
+            <B>Pop off valve location near the fresh gas inflow</B>
+            <C>Fresh gas flow tubing located inside the breathing tube</C>
+            <D>Fresh gas flow tubing entrance near the reservoir bag</D>
+            <E></E>
+            <Description>Bain circuits are modified Mapleson D circuits that include the fresh gas flow tubing inside the breathing tube itself. This allows for warming of the inspired gas.</Description>
+            <Ans>C</Ans>
+        </questions>
+        <questions>
+            <id>5</id>
+            <question>What is the approximate fresh gas flow needed to prevent rebreathing in a Mapleson D circuit?</question>
+            <A>1 x minute ventilation</A>
+            <B>2.5 x minute ventilation</B>
+            <C>4.5 x minute ventilation</C>
+            <D>5 x minute ventilation</D>
+            <E>20 x minute ventilation</E>
+            <Description>All Mapleson circuits require fresh gas inflows to prevent the patient from rebreathing expired gas. In a Mapleson D, that amount is approximately 2-2.5 x the minute ventilation.  (Barash PG: Clinical Anesthesia. 6th ed.  pp  671-672)</Description>
+            <Ans>B</Ans>
+        </questions>
+    </Chapter>
+    <Chapter>
+        <ChapterID>6</ChapterID>
+        <Chaptername>CYLINDER TANKS </Chaptername>
+        <questions>
+            <id>1</id>
+            <question>How many liters of N2O is available in a full E-cylinder?</question>
+            <A>1000 L</A>
+            <B>660 L</B>
+            <C>2200 L</C>
+            <D>1590 L</D>
+            <E>1380 L</E>
+            <Description>1590 L per standard</Description>
+            <Ans>D</Ans>
+        </questions>
+        <questions>
+            <id>2</id>
+            <question> If the pressure of an oxygen E-cylinder is 800 psi, and the pipeline O2 is off by emergency, how long could O2 be delivered constantly at a rate of 2 L/min via the anesthesia machine? (Assuming the bellows was driven pneumatically by the air cylinder.) ?</question>
+            <A>120 min</A>
+            <B>30 min</B>
+            <C>4 hours</C>
+            <D>310 min</D>
+            <E>Cannot be calculated</E>
+            <Description></Description>
+            <Ans>A</Ans>
+        </questions>
+        <questions>
+            <id>3</id>
+            <question>How many liters of a gas is available in a full gray colored E-cylinder?</question>
+            <A>1000 L</A>
+            <B>660 L</B>
+            <C>2200 L</C>
+            <D>1590 L</D>
+            <E>1380 L</E>
+            <Description>A gray tank is a CO2 tank and holds 1590 L when full</Description>
+            <Ans>D</Ans>
+        </questions>
+        <questions>
+            <id>4</id>
+            <question>One anesthesiology technician with total color blindness has been able to connect the correct gas pipes to the wall outlet. Which of the following systems allows him to avoid the mistake of wrong attachment?</question>
+            <A>Pin-index safety system</A>
+            <B>Fail safe system</B>
+            <C>By equation calculation</C>
+            <D>Diameter index safety system</D>
+            <E>None of the above</E>
+            <Description>Diameter index safety system is designed for the safe connection of H Cylinder-pipeline</Description>
+            <Ans>D</Ans>
+        </questions>
+        <questions>
+            <id>5</id>
+            <question>If the pressure of a N2O E-cylinder is 750 psi, and the pipeline N2O was off, how long could N2O be delivered constantly at a rate of 2 L/min via the anesthesia machine?</question>
+            <A>120 min</A>
+            <B>30 min</B>
+            <C>4 hours</C>
+            <D>310 min</D>
+            <E>Cannot be calculated</E>
+            <Description>Cannot be calculated. N2O is liquid in the cylinder. Its pressure will remain constant at 750psi until about 75% of the contents have been exhausted.  Before that happens, the only way to determine remaining nitrous oxide volume is to weigh the cylinder</Description>
+            <Ans>E</Ans>
+        </questions>
+    </Chapter>
+    <Chapter>
+        <ChapterID>7</ChapterID>
+        <Chaptername>LASERS COMBUSTION</Chaptername>
+        <questions>
+            <id>1</id>
+            <question>In regards to laser surgery, which one of the following gas mixtures may be used safely?</question>
+            <A>Oxygen</A>
+            <B>Nitrous Oxide</B>
+            <C>Helium</C>
+            <D>A And B</D>
+            <E>A And C</E>
+            <Description>1590 L per standard</Description>
+            <Ans>C</Ans>
+        </questions>
+        <questions>
+            <id>2</id>
+            <question>A patient is having an ENT surgical procedure where a laser will be used.  Which one of following endotracheal tubes will be the best choice for this procedure?</question>
+            <A>PVC (polyvinyl chloride)</A>
+            <B>Stainless steel</B>
+            <C>Anything wrapped in metallic tape</C>
+            <D>Red rubber tube</D>
+            <E>Silicone rubber</E>
+            <Description></Description>
+            <Ans>B</Ans>
+        </questions>
+        <questions>
+            <id>3</id>
+            <question>Regarding laser surgery, which of the following statements below about YAG and CO2 lasers is correct?</question>
+            <A>CO2 has only 1 wavelength, whereas YAG has multiple</A>
+            <B>YAG isn’t associated with airway fire, whereas CO2 is</B>
+            <C>YAG has a smaller wavelength than CO2, and consequently has better tissue penetration</C>
+            <D>YAG has a smaller wavelength than CO2, and consequently has poorer tissue penetration</D>
+            <E>None of the above</E>
+            <Description>A gray tank is a CO2 tank and holds 1590 L when full</Description>
+            <Ans>C</Ans>
+        </questions>
+    </Chapter>
+    <Chapter>
+        <ChapterID>8</ChapterID>
+        <Chaptername>MRI HAZARDS</Chaptername>
+        <questions>
+            <id>1</id>
+            <question>Regarding MRI hazards, during emergency magnetic shutdown (quenching) the patient is at greatest risk for which one of the following?</question>
+            <A>Noise</A>
+            <B>Fire</B>
+            <C>Cold</C>
+            <D>Heat</D>
+            <E>Explosion</E>
+            <Description>Scanner will became extremely cold during quenching (Stoelting:Basics of Anesthesia, ed 5, pp 553-554)</Description>
+            <Ans>C</Ans>
+        </questions>
+        <questions>
+            <id>2</id>
+            <question>Which of the following conventional version monitors is safest during MRI imaging?</question>
+            <A>ECG electrodes</A>
+            <B>PA catheter</B>
+            <C>Pulse oximeter</C>
+            <D>Arterial line</D>
+            <E>Foley catheter with temp. probe</E>
+            <Description>Arterial lines do not pose a problem in the scanner because no wires come into contact with the patient. The fluid-filled tubing is not ferromagnetic and the transducer is fixed, away from the patient.  (Stoelting:Basics of Anesthesia, ed 5, pp 553-554)</Description>
+            <Ans>D</Ans>
+        </questions>
+        <questions>
+            <id>3</id>
+            <question>A 56 year old male with history of chronic low back pain is scheduled for an MRI of the lumbar spine.  During the MRI, the patient is pinned by a large metallic object.  What is the next most appropriate course of action?</question>
+            <A>Stop the scan immediately to release the object</A>
+            <B>Interrupt electrical power for 1 min to release the magnetic force</B>
+            <C>Forcefully pull the object away</C>
+            <D>Magnet shut-down(quench)</D>
+            <E>None of the above</E>
+            <Description>Metal objects brought into the scanner room can become dangerous projectiles that fly toward the middle of the magnet, where the patient is located. Small items can be pulled away  but larger items may not be removable even with a winch and thus require a magnet shut-down, the process is known as a quench.  (Stoelting:Basics of Anesthesia, ed 5, pp 553-554)  </Description>
+            <Ans>D</Ans>
+        </questions>
+        <questions>
+            <id>4</id>
+            <question>In an MRI machine, noise may be very distressing for some patients and may average 95 dB in a 1,5-T scanner.  Exposure to noise level of this magnitude should not exceed:?</question>
+            <A>30 min/day</A>
+            <B>1 hour/day</B>
+            <C>2 hour/day</C>
+            <D>3 hour/day</D>
+            <E>No limitations</E>
+            <Description>Noise may be very distressing for some patients and may average 95 dB in 1,5-T scanner.  Exposure to noise level of this magnitude should not exceed 2 h/d. (Stoelting:Basics of Anesthesia, ed 5, pp 553-554)</Description>
+            <Ans>C</Ans>
+        </questions>
+        <questions>
+            <id>5</id>
+            <question>A 53 year old female is scheduled for an MRI imaging examination.  Which of the following is a contraindication for MRI scan?</question>
+            <A>Pacemakers</A>
+            <B>PA and urinary catheters with thermistors</B>
+            <C>Magnetic cochlear implants</C>
+            <D>Non-titanium cerebral aneurysm clips</D>
+            <E>All of the above</E>
+            <Description>All of the above (Stoelting:Basics of Anesthesia, ed 5, pp 553-554)</Description>
+            <Ans>E</Ans>
+        </questions>
+    </Chapter>
+</Section>
+</Root>
+</Doc>
