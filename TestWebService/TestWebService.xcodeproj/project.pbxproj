@@ -30,6 +30,7 @@
 		2899E5220DE3E06400AC0155 /* TestWebServiceViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = 2899E5210DE3E06400AC0155 /* TestWebServiceViewController.xib */; };
 		28AD733F0D9D9553002E5188 /* MainWindow.xib in Resources */ = {isa = PBXBuildFile; fileRef = 28AD733E0D9D9553002E5188 /* MainWindow.xib */; };
 		28D7ACF80DDB3853001CB0EB /* TestWebServiceViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 28D7ACF70DDB3853001CB0EB /* TestWebServiceViewController.m */; };
+		966026E3152587CD009A53E7 /* StatusNotifierTheme2.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 966026E2152587CD009A53E7 /* StatusNotifierTheme2.jpg */; };
 		96DAF2F214179CA000092A5E /* GDataXMLElementAdditions.m in Sources */ = {isa = PBXBuildFile; fileRef = 96DAF2F114179CA000092A5E /* GDataXMLElementAdditions.m */; };
 		96FAA6621480CCC000313964 /* section1.xml in Resources */ = {isa = PBXBuildFile; fileRef = 96FAA6611480CCC000313964 /* section1.xml */; };
 		96FAA6651480CE2500313964 /* libz.1.2.5.dylib in Frameworks */ = {isa = PBXBuildFile; fileRef = 96FAA6641480CE2500313964 /* libz.1.2.5.dylib */; };
@@ -79,6 +80,7 @@
 		29B97316FDCFA39411CA2CEA /* main.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
 		32CA4F630368D1EE00C91783 /* TestWebService_Prefix.pch */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = TestWebService_Prefix.pch; sourceTree = "<group>"; };
 		8D1107310486CEB800E47090 /* TestWebService-Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = "TestWebService-Info.plist"; plistStructureDefinitionIdentifier = "com.apple.xcode.plist.structure-definition.iphone.info-plist"; sourceTree = "<group>"; };
+		966026E2152587CD009A53E7 /* StatusNotifierTheme2.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = StatusNotifierTheme2.jpg; sourceTree = "<group>"; };
 		96DAF2EF14179C9D00092A5E /* GDataXMLElementAdditions.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = GDataXMLElementAdditions.h; sourceTree = "<group>"; };
 		96DAF2F114179CA000092A5E /* GDataXMLElementAdditions.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = GDataXMLElementAdditions.m; sourceTree = "<group>"; };
 		96FAA6611480CCC000313964 /* section1.xml */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.xml; path = section1.xml; sourceTree = "<group>"; };
@@ -208,6 +210,7 @@
 		29B97317FDCFA39411CA2CEA /* Resources */ = {
 			isa = PBXGroup;
 			children = (
+				966026E2152587CD009A53E7 /* StatusNotifierTheme2.jpg */,
 				96FAA6611480CCC000313964 /* section1.xml */,
 				2899E5210DE3E06400AC0155 /* TestWebServiceViewController.xib */,
 				28AD733E0D9D9553002E5188 /* MainWindow.xib */,
@@ -279,6 +282,7 @@
 				28AD733F0D9D9553002E5188 /* MainWindow.xib in Resources */,
 				2899E5220DE3E06400AC0155 /* TestWebServiceViewController.xib in Resources */,
 				96FAA6621480CCC000313964 /* section1.xml in Resources */,
+				966026E3152587CD009A53E7 /* StatusNotifierTheme2.jpg in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
